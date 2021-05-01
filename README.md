@@ -6,7 +6,7 @@
 - only test on private chain, should revise address and abi in `src/config.js` after deploy a new Chainy contract.
 - slightly revised Chainy.sol, removing `checkFormat(json);` from `addChainyData` function.
 
-![Demo png](img/dappview.png)
-![Metamask png](img/metamask.png)
+<img src="img/dappview.png" alt="Cover" width="40%"/>
+<img src="img/metamask.png" alt="Cover" width="20%"/>
 
 

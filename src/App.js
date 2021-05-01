@@ -105,7 +105,7 @@ class App extends Component {
     
     return (
       <div className = "no">
-        <h1>Proof of Existenece</h1>
+        <h1>Proof of Existence</h1>
         <h6>Using Chainy contract (https://github.com/EverexIO/Chainy)</h6>
 
         <div className="container">
